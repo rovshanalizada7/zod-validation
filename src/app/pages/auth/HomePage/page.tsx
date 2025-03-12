@@ -6,6 +6,7 @@ export const HomePage = () => {
        
         <section className='flex justify-center items-center'>
             <h1 className='text-[100px]'>Home Page</h1>
+          
         </section>
        
     </div>
